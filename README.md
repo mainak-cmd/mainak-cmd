@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mainakray6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mainakray6" height="30" width="40" /></a>
-<a href="https://kaggle.com/www.kaggle.com/mainakray/account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="www.kaggle.com/mainakray/account" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mainakray6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mainakray6" height="30" width="40" /></a>
+<a href="https://kaggle.com/mainak ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="mainak ray" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
