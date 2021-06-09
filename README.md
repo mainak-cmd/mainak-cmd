@@ -19,7 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mainakray6" target="blank">https://linkedin.com/in/mainakray6</a>
+<a href="https://linkedin.com/in/mainakray6" target="blank">https://linkedin.com/in/mainakray6</a></p>
+<p>
 <a href="https://kaggle.com/mainak ray" target="blank">https://kaggle.com/mainak ray</a>
 </p>
 
